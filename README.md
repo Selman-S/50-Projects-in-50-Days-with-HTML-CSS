@@ -1,3 +1,5 @@
 # Expanding-Cards
 
-[live site](https://selman-expanding-cards.netlify.app/)
+[Clik Me! to live site](https://selman-expanding-cards.netlify.app/)
+
+
